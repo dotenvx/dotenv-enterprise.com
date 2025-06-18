@@ -13,7 +13,7 @@ title: ""
       <p>But the threat landscape has changed. Today, env files are critical infrastructure: embedded in AI agents, shipped with CI pipelines, and scattered across developer laptops. And yet — they remain unencrypted, unaudited, and often invisible to security teams.</p>
       <p>Dotenv Enterprise solves this.</p>
       <p>We’ve extended the familiar env file format to support encryption at rest, git-based auditing, and org-wide visibility — all without changing how developers work. It’s zero-friction security for an overlooked but essential layer of your stack.</p>
-      <p>Please get in touch. This new technology is exciting, and we'd love to help you implement it. Env files are my passion.</p>
+      <p>Please <a href="mailto:sales@dotenv-enterprise.com" class="underline">get in touch</a>. We have complete solutions and services available. This new technology is exciting, and we'd love to help you implement it.</p>
       <p>Regards,</p>
       <div class="flex flex-col gap-0.5">
         <p class="font-semibold">Scott (Mot) Motte</p>
