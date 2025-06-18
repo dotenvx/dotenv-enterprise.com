@@ -7,15 +7,15 @@ title: ""
 
 <section class="w-full max-w-2xl mx-auto my-20 md:my-20 bg-zinc-100 border border-zinc-100 p-6">
   <div class="flex gap-10 h-full flex-col md:flex-row items-center justify-center">
-    <div class="flex-1 flex flex-col gap-5">
-      <p>Fellow technologist,</p>
-      <p>As the world’s foremost expert on env files — and the creator of the original <a href="https://npmjs.com/dotenv">Dotenv</a> (now installed billions of times a year) — I’ve spent over a decade helping developers manage secrets simply and safely.</p>
+    <div class="flex-1 flex flex-col gap-5 text-lg">
+      <p>Fellow technology leader,</p>
+      <p>As the world’s foremost expert on env files — and the creator of the original <a target="_blank" href="https://npmjs.com/dotenv" class="link-primary">Dotenv</a> (now installed billions of times a year) — I’ve spent over a decade helping developers manage secrets simply and safely.</p>
       <p>But the threat landscape has changed. Today, env files are critical infrastructure: embedded in AI agents, shipped with CI pipelines, and scattered across developer laptops. And yet — they remain unencrypted, unaudited, and often invisible to security teams.</p>
       <p>Dotenv Enterprise solves this.</p>
       <p>We’ve extended the familiar env file format to support encryption at rest, git-based auditing, and org-wide visibility — all without changing how developers work. It’s zero-friction security for an overlooked but essential layer of your stack.</p>
       <p>Please get in touch. This new technology is exciting, and we'd love to help you implement it. Env files are my passion.</p>
       <p>Regards,</p>
-      <div class="flex flex-col gap-2">
+      <div class="flex flex-col gap-0.5">
         <p class="font-semibold">Scott (Mot) Motte</p>
         <p>Creator of <a class="link-primary" href="https://npmjs.com/dotenv" target="_blank">Dotenv</a> / Founder @ <a href="https://dotenv-enterprise.com" class="link-primary">Dotenv Enterprise</a></p>
         <p><a class="link-primary" href="https://dotenvx.com/dotenvx.pdf" target="_blank">Whitepaper: Reducing Secrets Risk with Cryptographic Separation</a></p>
@@ -72,4 +72,10 @@ Dotenv Enterprise ensures every transfer is encrypted, whether over Git, CI/CD, 
 </section>
 
 {% include components/report.html %}
+
+<section class="w-full max-w-3xl mx-auto px-6 mt-40 text-center">
+  <p class="my-2 text-center tracking-tigther text-lg md:text-2xl font-semibold">Enterprise solutions for env files.</p>
+  <p class="my-2"><a target="_blank" href="mailto:sales@dotenv-enterprise.com" class="link-primary font-semibold underline">Contact Sales</a></p>
+</section>
+
 </div>
