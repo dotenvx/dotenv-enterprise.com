@@ -25,6 +25,21 @@ title: ""
 </section>
 
 <section class="w-full max-w-3xl mx-auto px-6 my-20 md:my-20">
+  <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-8 place-items-center">
+    <img src="/assets/img/logo-aws.png" class="h-8" alt="AWS"/>
+    <img src="/assets/img/logo-daytona.png" class="h-7" alt="Daytona"/>
+    <img src="/assets/img/logo-french-government.png" class="h-9" alt="French Government"/>
+    <img src="/assets/img/logo-nasa.png" class="h-10" alt="NASA"/>
+    <!-- wrap last row manually -->
+    <div class="col-span-4 flex justify-center gap-8">
+      <img src="/assets/img/logo-socket.png" class="h-8" alt="Socket"/>
+      <img src="/assets/img/logo-stacks.png" class="h-6" alt="Stacks"/>
+      <img src="/assets/img/logo-supabase.png" class="h-7" alt="Supabase"/>
+    </div>
+  </div>
+</section>
+
+<section class="w-full max-w-3xl mx-auto px-6 my-20 md:my-20">
   <div class="flex gap-10 h-full flex-col md:flex-row items-center justify-center">
     <div class="flex-1">
       <h2 class="my-5 text-center md:text-start text-4xl lg:text-5xl font-bold tracking-tight leading-none text-zinc-950 dark:text-zinc-50">Encrypt Env Files at Rest</h2>
