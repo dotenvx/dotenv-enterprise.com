@@ -1,4 +1,4 @@
-![dotenv-enterprise](https://dotenvx.github.io/dotenv-enterprise-banner.png)
+![dotenv-enterprise](https://dotenvx.com/dotenv-enterprise-banner.png)
 
 > source code for [dotenv-enterprise.com](https://dotenv-enterprise.com)
 > 
