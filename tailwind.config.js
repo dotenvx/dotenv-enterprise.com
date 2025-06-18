@@ -9,7 +9,11 @@ module.exports = {
     './*.html',
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        logo: ['"IBM Plex Mono"', 'monospace'],  // adds your custom class
+      }
+    },
   },
   variants: {},
   plugins: [
