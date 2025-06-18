@@ -3,5 +3,5 @@ title: ""
 ---
 
 <div x-data="{ curl: true }">
-hello
+{% include components/hero.html %}
 </div>
